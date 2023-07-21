@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LibraryItem()
+comment1.params=
+comment1.target=void\ printDetails()
+comment1.text=\r\n\ Prints\ details\ of\ item\r\n
+comment2.params=
+comment2.target=java.lang.String\ isOnLoan()
+comment2.text=\r\n\ Called\ by\ printDetails().\ Returns\ the\ correct\ text\ for\ the\ output\ regarding\ item\ availability.\r\n
+comment3.params=itemData
+comment3.target=boolean\ readData(java.util.Scanner)
+comment3.text=\r\n\ Uses\ passed\ scanner\ to\ get\ field\ information.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getTitle()
+comment5.params=
+comment5.target=java.lang.String\ getItemCode()
+comment6.params=
+comment6.target=int\ getCost()
+comment7.params=
+comment7.target=int\ getTimesBorrowed()
+comment8.params=
+comment8.target=boolean\ getOnLoan()
+numComments=9

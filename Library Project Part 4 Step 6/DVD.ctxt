@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=DVD()
+comment0.text=\r\n\ Default\ Constructor\r\n
+comment1.params=
+comment1.target=void\ printDetails()
+comment1.text=\r\n\ Prints\ supers\ details,\ then\ prints\ fields\ of\ DVD\r\n
+comment2.params=itemData
+comment2.target=boolean\ readData(java.util.Scanner)
+comment2.text=\r\n\ Uses\ passed\ scanner\ to\ get\ field\ information\ and\ passes\ scanner\ to\ super\r\n
+comment3.params=
+comment3.target=java.lang.String\ getDirector()
+numComments=4

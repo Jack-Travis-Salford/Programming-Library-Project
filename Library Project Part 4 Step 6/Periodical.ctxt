@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Periodical()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ Periodical\r\n
+comment1.params=itemData
+comment1.target=boolean\ readData(java.util.Scanner)
+comment1.text=\r\n\ Uses\ passed\ scanner\ to\ get\ necessary\ information\ for\ fields,\ and\ passes\ scanner\ to\ super\r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment2.text=\r\n\ Prints\ supers\ details,\ followed\ by\ periodical\ fields\r\n
+comment3.params=
+comment3.target=java.lang.String\ getPublicationDate()
+numComments=4

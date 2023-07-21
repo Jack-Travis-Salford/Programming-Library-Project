@@ -1,0 +1,26 @@
+#BlueJ class context
+comment0.params=
+comment0.target=LibraryUser()
+comment0.text=\r\n\ Constructor\ for\ objects\ of\ class\ LibraryUser\r\n
+comment1.params=itemData
+comment1.target=boolean\ readData(java.util.Scanner)
+comment1.text=\r\n\ Passed\ a\ scanner.\ Uses\ said\ scanner\ to\ fill\ in\ its\ fields\r\n
+comment2.params=
+comment2.target=void\ printDetails()
+comment2.text=\r\n\ Prints\ the\ details\ of\ the\ user\r\n
+comment3.params=pWriter
+comment3.target=void\ writeData(java.io.PrintWriter)
+comment3.text=\r\n\ Uses\ the\ passed\ PrintWriter\ to\ write\ the\ Users\ info\ into\ the\ given\ text\ file\r\n
+comment4.params=
+comment4.target=java.lang.String\ getUserID()
+comment5.params=
+comment5.target=java.lang.String\ getSurname()
+comment6.params=
+comment6.target=java.lang.String\ getFirstName()
+comment7.params=
+comment7.target=java.lang.String\ getOtherInitials()
+comment8.params=
+comment8.target=java.lang.String\ getTitle()
+comment9.params=newID
+comment9.target=void\ setUserID(java.lang.String)
+numComments=10

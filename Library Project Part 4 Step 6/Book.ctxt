@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Book()
+comment0.text=\r\n\ Default\ constructor\ for\ Book\r\n
+comment1.params=itemData
+comment1.target=boolean\ readData(java.util.Scanner)
+comment1.text=\r\n\ Uses\ passed\ scanner\ to\ get\ field\ information\ and\ passes\ scanner\ to\ super\r\n
+comment2.params=
+comment2.target=java.lang.String\ getAuthor()
+comment3.params=
+comment3.target=java.lang.String\ getIsbn()
+comment4.params=
+comment4.target=void\ printDetails()
+comment4.text=\r\n\ Prints\ supers\ details,\ then\ prints\ fields\ of\ Book\r\n
+numComments=5
